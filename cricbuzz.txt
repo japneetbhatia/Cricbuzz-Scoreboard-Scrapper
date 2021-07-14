@@ -1,0 +1,145 @@
+[
+  {
+    playerName: 'Philippe',
+    out: 'lbw b Boult',
+    runs: '2',
+    ballsPlayed: '8',
+    fours: '0',
+    sixes: '0',
+    strikeRate: '25.00'
+  },
+  {
+    playerName: 'Finch (c)',
+    out: 'c Santner b Ish Sodhi',
+    runs: '36',
+    ballsPlayed: '32',
+    fours: '5',
+    sixes: '1',
+    strikeRate: '112.50'
+  },
+  {
+    playerName: 'Wade (wk)',
+    out: 'c Guptill b Boult',
+    runs: '44',
+    ballsPlayed: '29',
+    fours: '3',
+    sixes: '2',
+    strikeRate: '151.72'
+  },
+  {
+    playerName: 'Maxwell',
+    out: 'c Boult b Chapman',
+    runs: '1',
+    ballsPlayed: '2',
+    fours: '0',
+    sixes: '0',
+    strikeRate: '50.00'
+  },
+  {
+    playerName: 'Stoinis',
+    out: 'c Guptill b Ish Sodhi',
+    runs: '26',
+    ballsPlayed: '26',
+    fours: '2',
+    sixes: '1',
+    strikeRate: '100.00'
+  },
+  {
+    playerName: 'Agar',
+    out: 'c Guptill b Ish Sodhi',
+    runs: '6',
+    ballsPlayed: '7',
+    fours: '0',
+    sixes: '0',
+    strikeRate: '85.71'
+  },
+  {
+    playerName: 'Mitchell Marsh',
+    out: 'b Southee',
+    runs: '10',
+    ballsPlayed: '9',
+    fours: '0',
+    sixes: '1',
+    strikeRate: '111.11'
+  },
+  {
+    playerName: 'Jhye Richardson',
+    out: 'c Glenn Phillips b Southee',
+    runs: '4',
+    ballsPlayed: '6',
+    fours: '0',
+    sixes: '0',
+    strikeRate: '66.67'
+  },
+  {
+    playerName: 'Kane Richardson',
+    out: 'not out',
+    runs: '2',
+    ballsPlayed: '2',
+    fours: '0',
+    sixes: '0',
+    strikeRate: '100.00'
+  }
+]
+[
+  {
+    playerName: 'Southee',
+    overs: '4',
+    maidenOvers: '0',
+    runs: '38',
+    wickets: '2',
+    noBalls: '1',
+    wideBalls: '4',
+    economy: '9.50'
+  },
+  {
+    playerName: 'Santner',
+    overs: '4',
+    maidenOvers: '0',
+    runs: '21',
+    wickets: '0',
+    noBalls: '0',
+    wideBalls: '0',
+    economy: '5.20'
+  },
+  {
+    playerName: 'Boult',
+    overs: '4',
+    maidenOvers: '0',
+    runs: '26',
+    wickets: '2',
+    noBalls: '0',
+    wideBalls: '0',
+    economy: '6.50'
+  },
+  {
+    playerName: 'Chapman',
+    overs: '2',
+    maidenOvers: '0',
+    runs: '9',
+    wickets: '1',
+    noBalls: '0',
+    wideBalls: '0',
+    economy: '4.50'
+  },
+  {
+    playerName: 'Ish Sodhi',
+    overs: '4',
+    maidenOvers: '0',
+    runs: '24',
+    wickets: '3',
+    noBalls: '0',
+    wideBalls: '0',
+    economy: '6.00'
+  },
+  {
+    playerName: 'Glenn Phillips',
+    overs: '2',
+    maidenOvers: '0',
+    runs: '21',
+    wickets: '0',
+    noBalls: '0',
+    wideBalls: '3',
+    economy: '10.50'
+  }
+]

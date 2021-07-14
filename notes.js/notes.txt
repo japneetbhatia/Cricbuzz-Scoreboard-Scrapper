@@ -1,0 +1,10 @@
+browser.get("url"); -> to got to particular website
+browser.wait(wd.until.elementLocated(wd.By.css(".cb-nav-bar a"))); // -> wait till element got load (safe when internet slow)
+buttons = browser.findElements(wd.By.css(".cb-nav-bar a"));  // -> find kro cb-nav-bar ke andar ke sare a tag and buttons m store karo
+await buttons[1].click();  // -> scoreboard button 1st idx p store hai click karo
+
+//ek class k andar dekhna h koi tag toh
+classname (space) tagname
+
+// multi classes lgani ho ek sth 
+classname(dot)classname
